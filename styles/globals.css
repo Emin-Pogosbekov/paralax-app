@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background: black;
+  /* background: black; */
   padding: 0;
   margin: 0;
   font-family: SP Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
